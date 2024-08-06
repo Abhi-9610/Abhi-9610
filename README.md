@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking Role of **Python Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abhi-9610/Abhi-9610](https://github.com/Abhi-9610/Abhi-9610)
+- 👨‍💻 All of my projects are available at [https://github.com/Abhi-9610](https://github.com/Abhi-9610)
 
 - 📫 How to reach me **abhishek.verma.070102@gmail.com**
 
