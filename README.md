@@ -1,12 +1,12 @@
 ![logo](https://github.com/Abhi-9610/Abhi-9610/blob/76a503d5312e48b0c91169233e0b09b35ae7c9d7/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20.png)
 
 <h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 
-- 🔭 I’m currently learning **DSA and Python**
+- 🔭 I’m currently learning **Data Analytics**
 
-- 🤝 I’m looking Role of **Python Developer**
+- 🤝 I’m looking Role of **Data Analyst**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhi-9610](https://github.com/Abhi-9610)
 
