@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abhishek.verma.070102@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SwwM4pd66rxPgkeQIjE5oHP1p1YoBTp3/view?usp=sharing](https://drive.google.com/file/d/1SwwM4pd66rxPgkeQIjE5oHP1p1YoBTp3/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1SwwM4pd66rxPgkeQIjE5oHP1p1YoBTp3/view?usp=sharing](https://drive.google.com/file/d/1mgj_2Hq2XlplIIDnf91MGY0XwHUVBuYU/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
