@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abhi-9610/Abhi-9610/main/assets/profile-banner.png" width="100%" alt="Abhishek Verma — Co-Founder and CTO at BlackMatter Technologies" />
+  <img src="[https://raw.githubusercontent.com/Abhi-9610/Abhi-9610/main/assets/profile-banner.png](https://github.com/Abhi-9610/Abhi-9610/blob/9c6ab33f74931001b530ef2ceed363fa9ed293ec/profile-banner.png)" width="100%" alt="Abhishek Verma — Co-Founder and CTO at BlackMatter Technologies" />
 </div><h1 align="center">Hey, I'm Abhishek Verma 👋</h1>
 <h3 align="center">Co-Founder & CTO · BlackMatter Technologies</h3><p align="center">
   <a href="https://blackmattertech.com/">
